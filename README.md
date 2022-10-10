@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MitaliMSahoo
 - 📖 Computer Science Graduate Student at Santa Clara University, looking for full time roles starting March 2023.
 - 📫 Hit me up @ msahoo@scu.edu
+- 📄 Resume > https://raw.githubusercontent.com/MitaliMSahoo/Resume-Share/main/Mitali%20Sahoo%20Resume.pdf
 
 
 <!---
